@@ -1,6 +1,5 @@
 # Investment Managing System
 Author: Aisha Khan
-Student ID: 1216274
 
 ## Project Overview:
 This system manages a portfolio of stocks and mutual funds, allowing the user to perform a variety of operations 
