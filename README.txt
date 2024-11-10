@@ -1,11 +1,11 @@
-# Assignment 1 CIS2430: Investment Managing System
+# Investment Managing System
 Author: Aisha Khan
 Student ID: 1216274
 
 ## Project Overview:
 This system manages a portfolio of stocks and mutual funds, allowing the user to perform a variety of operations 
 like buying, selling, updating prices, calculating total gain, and searching for investments. The key enhancement 
-for Assignment 2 involves implementing a HashMap to index investments by keywords from their names, allowing more 
+includes implementing a HashMap to index investments by keywords from their names, allowing more 
 efficient searching and updating of investments.
 
 ## Key Features:
